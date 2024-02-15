@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>Portfolio Website - v1.0<br/>
-  <a href="https://iamrajatsingh.com/" target="_blank">iamrajatsingh.com</a>
+  <a href="https://grudge17.github.io/portfolio-version1/" target="_blank">Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
