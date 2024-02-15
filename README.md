@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://grudge17.github.io/" target="_blank">iamrajatsingh.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://grudge17.github.io/" target="_blank">shresth-pal-portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
