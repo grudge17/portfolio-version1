@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>Portfolio Website - v1.0<br/>
-  <a href="https://grudge17.github.io/portfolio-version1/" target="_blank">Portfolio</a>
+  <a href="https://grudge17.github.io/portfolio-version1/" target="_blank">Shresth Pal</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://iamrajatsingh.com/" target="_blank">iamrajatsingh.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://grudge17.github.io/" target="_blank">iamrajatsingh.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -38,7 +38,7 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
+
 
 ## Features
 
