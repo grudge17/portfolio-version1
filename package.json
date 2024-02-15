@@ -1,7 +1,7 @@
 {
-  "homepage": "http://portfolio.github.io/portfolio",
-  "name": "portfolio-v2",
-  "author": "Rajat Singh",
+  "homepage": "http://portfolio.github.io/portfolio-v1",
+  "name": "portfolio-v1",
+  "author": "Shresth Pal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
