@@ -1,5 +1,5 @@
 <h2 align="center">
-  <br>Portfolio Website - v2.0<br/>
+  <br>Portfolio Website - v1.0<br/>
   <a href="https://iamrajatsingh.com/" target="_blank">iamrajatsingh.com</a>
 </h2>
 <div align="center">
