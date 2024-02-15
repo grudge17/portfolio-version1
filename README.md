@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/iamrajatsingh1/portfolio-v2/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/grudge17/portfolio-version1/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/iamrajatsingh1/portfolio-v2/issues">Request Feature</a>
+    <a href="https://github.com/grudge17/portfolio-version1/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
